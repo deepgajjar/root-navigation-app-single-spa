@@ -1,0 +1,43 @@
+.login-page {
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input-field {
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    border : 1px solid lightblue;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 14px;
+}
+.submit-btn{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(35, 125, 160);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    color:white ;
+}
+.signup-txt {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-txt span {
+color: rgb(35, 125, 160);
+}
+
+.login-title {
+
+}

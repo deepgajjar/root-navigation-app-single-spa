@@ -1,0 +1,9 @@
+.input-field {
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    border : 1px solid lightblue;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 14px;
+}

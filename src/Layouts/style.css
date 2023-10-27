@@ -1,0 +1,26 @@
+.header {
+display: flex;
+height: 7vh;
+align-items: center;
+justify-content: space-between;
+padding:0 1rem;
+box-sizing: border-box;
+background-color:rgb(35, 125, 160);
+width: 100%;
+color: white;
+}
+
+.header .menu {
+display: flex;
+justify-content: flex-end;
+column-gap: 20px;
+
+/* justify-content: space-evenly; */
+width: 60%;
+}
+
+.menu .link {
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+}
